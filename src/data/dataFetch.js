@@ -1,4 +1,4 @@
-const DATA_URL = "../../un_sustainability_goal_12.json";
+const DATA_URL = "/un_sustainability_goal_12.json";
 
 // get examples
 function getExamples(data) {
