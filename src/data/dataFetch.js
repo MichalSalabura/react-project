@@ -1,4 +1,4 @@
-const DATA_URL = "https://michalsalabura.github.io/react-project/public/un_sustainability_goal_12.json";
+const DATA_URL = "/react-project/un_sustainability_goal_12.json";
 
 // get examples
 function getExamples(data) {
